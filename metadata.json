@@ -1,0 +1,6 @@
+{
+  "name": "SI-BOSP: Sistem Pelaporan BKU & Kwitansi",
+  "description": "Aplikasi manajemen pelaporan BOSP terintegrasi BKU ARKAS dengan fitur penggabungan nomor BKU ke kwitansi, cetak Surat Pesanan, BAST, Faktur, dan ekspor PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
